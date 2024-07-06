@@ -1,0 +1,9 @@
+--extra-index-url https://download.pytorch.org/whl/nightly/cu124
+gym-super-mario-bros==7.4.0
+torchrl==0.4.0
+torch
+torchvision
+
+wandb
+moviepy
+black==24.3.0
